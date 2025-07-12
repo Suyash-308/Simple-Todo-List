@@ -1,0 +1,18 @@
+*{background-color:aquamarine;}
+.parent{
+    gap: 50px;
+    display: flex;
+    justify-content: center;
+    
+}
+div{
+    display: flex;
+    align-items: center;
+    gap: 3rem;
+}
+
+p{
+    font-size:xx-large;
+    font-style: oblique;
+    font-weight: 600;
+}
